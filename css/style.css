@@ -1,0 +1,12 @@
+header.masthead {
+    text-align: center;
+    color:white;
+    background-image: url("/imgs/austin-distel-rxpThOwuVgE-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
+header.masthead .intro-text {
+    
+}
